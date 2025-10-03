@@ -1,7 +1,3 @@
-Got it ✅ Here’s a clean **README.md** for your **Fleet-Task** project in English:
-
----
-
 # Fleet-Task
 
 Fleet-Task is a lightweight **Go REST API** to manage *tasks* and *users*.
